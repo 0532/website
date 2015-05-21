@@ -1,2 +1,2 @@
 #### Rubber sheet
-Corporate Website
+Corporate [Website](http://info.coding.io/)
